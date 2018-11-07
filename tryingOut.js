@@ -1,3 +1,3 @@
-console.log("SALLAM");
-console.log("am trying out github");
-console.log ("Update Several Years later lol");
+alert("SALLAM");
+alert("am trying out github");
+alert("Update Several Years later lol");
